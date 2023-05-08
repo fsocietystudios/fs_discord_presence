@@ -1,4 +1,4 @@
-<h1 align='center'><b>🕒 FSOCIETY'S Discord Presence</b></a></h1>
+<h1 align='center'><b>⚙️ FSOCIETY'S Discord Presence</b></a></h1>
 
 <p align='center'><b><a href='https://discord.gg/fsociety'>Discord</a> - <a href='https://store.fsocietystudios.com/'>Tebex</a> - <a href='https://media.giphy.com/media/z6EG2su1f5jOTourNL/giphy.gif'>Documentation</a></b></h5>
 <p align='center'><b>A simple standalone Discord Presence resource!</b></p>
